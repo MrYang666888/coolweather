@@ -3,6 +3,8 @@ package com.example.qq124.coolweather;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.qq124.coolweather.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
